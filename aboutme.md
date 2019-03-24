@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Nothing intresting
+subtitle: Almost everything
 ---
 
 My name is Dariusz Dudek, I am a software developer.
