@@ -4,4 +4,4 @@ title: Fun!
 image: /img/hello_world.jpeg
 ---
 
-I had fun with github pages.
+I was having fun with github pages ad beautiful-jekyll.
